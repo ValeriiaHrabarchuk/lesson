@@ -1,0 +1,78 @@
+@import url("fonts.css");
+@import url("reset.css");
+
+
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular,600,700&display=swap');
+
+
+body {
+    font-family: "Causten", sans-serif;
+    font-size: 14px;
+    color: #7d7d7d;
+}
+.title,
+.subtitle,
+.project {
+    font-family: "Poppins", sans-serif;
+    color: violet;
+    text-transform: capitalize;
+}
+.aria {
+    font-family: "frederickalexander-qzpgv";
+    color: violet;
+    word-spacing: 20px;
+}
+.title {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 600;
+    color: #37393f;
+    line-height: 1.27;
+}
+.subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color: #6b77e5;
+    line-height: 1.27;
+}
+.project {
+    font-size: 40px;
+    color: #37393F;
+}
+.item-1-1,
+.item-2-2,
+.item-3-3,
+.item-4-4,
+div.into-1,
+div.into-2 {
+    font-size: 18px;
+    color: #7D7D7D;
+}
+
+.font {
+    font-family: "wedding-font-italic";
+    color: violet;
+}
+.options {
+    font-family: "Lindrakitrial";
+    color: violet;
+    text-decoration: underline;
+    text-shadow: 5px 5px 5px yellow;
+}
+.sale {
+    color: red;
+    text-shadow: 5px 5px 5px yellow;
+    text-transform: uppercase;
+}
+.price {
+    text-decoration: line-through;
+}
+.item-1-1,
+.into-2,
+.into-1 {
+    line-height: 1.47;
+}
+.exc {
+    text-indent: 50px;
+}
