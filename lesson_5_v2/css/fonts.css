@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Causten";
+    src: 
+    url(../fonts/Causten-Regular.woff2); format ("woff2"), 
+    url(../fonts/Causten-Regular.woff); format ("woff");
+    font-weight: normal;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "Causten";
+    src: 
+    url(../fonts/Causten-Bold.woff2); format ("woff2"), 
+    url(../fonts/Causten-Bold.woff); format ("woff");
+    font-weight: 700;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "Causten";
+    src: 
+    url(../fonts/Causten-Light.woff2); format ("woff2"), 
+    url(../fonts/Causten-Light.woff); format ("woff");
+    font-weight: 300;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "Causten";
+    src: 
+    url(../fonts/Causten-Medium.woff2); format ("woff2"), 
+    uurl(../fonts/Causten-Medium.woff); format ("woff");
+    font-weight: 500;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "Causten";
+    src: 
+    url(../fonts/Causten-Semi-Bold.woff2); format ("woff2"), 
+    url(../fonts/Causten-Semi-Bold.woff); format ("woff");
+    font-weight: 600;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "frederickalexander-qzpgv";
+    src: 
+    url(../fonts/frederickalexander-qzpgv.woff2); format ("woff2"), 
+    url(../fonts/frederickalexander-qzpgv.woff); format ("woff");
+    font-weight: normal;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "wedding-font-italic";
+    src: 
+    url(../fonts/wedding-font-italic.woff2); format ("woff2"), 
+    url(../fonts/wedding-font-italic.woff); format ("woff");
+    font-weight: normal;  
+    font-style: normal;
+    font-display: swap;
+} 
+@font-face {
+    font-family: "Lindrakitrial";
+    src: 
+    url(../fonts/Lindrakitrial.woff2); format ("woff2"), 
+    url(../fonts/Lindrakitrial.woff); format ("woff");
+    font-weight: normal;  
+    font-style: normal;
+    font-display: swap;
+} 
