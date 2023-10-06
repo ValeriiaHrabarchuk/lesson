@@ -1,0 +1,125 @@
+@import url("fonts.css");
+
+@import url("reset.css");
+
+body {
+font-family: "Inter", sans-serif;
+color: #7D7D7D;
+font-size: 18px;
+}
+
+.block {
+    padding: 0 15px;
+    max-width: 692px;
+    margin: 0 auto;
+}
+.image-1,
+.image-2 { 
+    max-width: 100%;
+}
+.image-1 {
+    margin-bottom: 37px;
+}
+.title,
+.subtitle,
+.third-title,
+.list {
+    font-family: "Poppins", sans-serif;
+}
+.title {
+    color: #37393F;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.27;
+    display: block;
+    margin-bottom: 12px;
+}
+.subtitle {
+    color: #6B77E5;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 12px;
+    font-family: "Poppins", sans-serif;
+}
+.subtitle-2 {
+    color: #7D7D7D;
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 1.27;
+    margin-bottom: 40px;
+}
+.third-title {
+    font-size: 0px;
+    color: #37393F;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.image-2 {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 331px;
+    margin-right: 29px;
+
+}
+.ending {
+    display: inline-block;
+    width: 332px;
+    margin-right: 29px;
+    font-size: 18px;
+}
+.list {
+    color: #40DDB6;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.27;
+    margin-bottom: 23.5px;
+}
+.list-1 li{
+    margin-bottom: 30px;
+}
+p {
+    display: block;
+}
+.title h1 + p {
+    margin-bottom: 42px;
+}
+.middle {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.benefits {
+    display: inline-block;
+    width: 332px;
+    font-size: 18px;
+    margin-bottom: 15px;
+    max-width: 332px;
+}
+
+.block-2 {
+    color: #D06B00;
+    max-width: 563px;
+    display: inline-block;
+    margin-right: 38px;
+    padding: 21px 0px;
+}
+.title-88 {
+    color: #0E333D;
+    font-size: 59px;
+}
+.text {
+    color: #474747;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+.block-3 {
+    display: inline-block;
+    margin-right: 23px;
+    vertical-align: top;
+}
